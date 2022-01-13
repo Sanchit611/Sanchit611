@@ -5,7 +5,6 @@ I am Sanchit Narang, a student at BITS Pilani. My interests cater to the program
 ⚡ I have founded my own organisation named "Specticia India", which is an authorised Amazon India associate that helps people to make the right choice before their next buy from Amazon India. (https://specticia.com/) ⚡ <br>
 Also, I am a Teaching assistant at Coding Blocks India :white_check_mark:
 <!--
-**Sanchit611/Sanchit611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
