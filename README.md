@@ -6,6 +6,9 @@ I am Sanchit Narang, a student at BITS Pilani. My interests cater to the program
 Also, I am a Teaching assistant at Coding Blocks India :white_check_mark:
 <!--
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanchit611)](https://github.com/Sanchit611/github-readme-stats)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
