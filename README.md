@@ -1,4 +1,5 @@
 ### Hi there ! I am Sanchit Narang 👋
+![image](https://user-images.githubusercontent.com/79566726/149272276-64dc7936-b4d1-414c-9f29-7bfd17c65ff1.png)
 
 <!--
 **Sanchit611/Sanchit611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
