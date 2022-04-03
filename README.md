@@ -4,7 +4,7 @@
 <br>
 I am Sanchit Narang, a student at BITS Pilani. My interests cater to the programming and development field. Participating in various hackathons interests me. <br>
 ⚡ I have founded my own organisation named "Specticia India", which is an authorised Amazon India associate that helps people to make the right choice before their next buy from Amazon India. (https://specticia.com/) ⚡ <br>
-Also, I am a Teaching assistant at Coding Blocks India :white_check_mark:
+Also, I was a Teaching assistant and Problem Setter at Coding Blocks India :white_check_mark:
 <br>
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchit611)](https://github.com/sanchit611/github-readme-stats)
